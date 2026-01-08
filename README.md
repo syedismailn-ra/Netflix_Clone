@@ -134,7 +134,6 @@ netflix-clone/
 
 **Director & Lead Developer:** [Syed Ismail N](https://www.google.com/search?q=https://github.com/syedismailn-ra)
 
-*Licensed under the MIT License.*
 
 ```
 
