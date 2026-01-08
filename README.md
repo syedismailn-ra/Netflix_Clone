@@ -5,9 +5,6 @@
 # 🎬 Netflix Clone
 > **"Who's watching?"** — A Full-Stack Streaming Platform Clone.
 
-![Netflix Clone Banner](https://repository-images.githubusercontent.com/placeholder/netflix-clone-banner.png)
-*(Replace this link with a screenshot or GIF of your running app!)*
-
 ---
 
 ## 🍿 Now Streaming (Overview)
