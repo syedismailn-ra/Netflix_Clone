@@ -1,12 +1,7 @@
 # Netflix
 
-Here is a **Netflix-Themed README** for your GitHub repository. It uses a cinematic "Dark Mode" style with badges, clear sections, and a professional layout.
-
-You can copy the code block below directly into your `README.md` file.
-
 ---
 
-```markdown
 # 🎬 Netflix Clone
 > **"Who's watching?"** — A Full-Stack Streaming Platform Clone.
 
